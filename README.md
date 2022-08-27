@@ -47,5 +47,7 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 
 DEVELOPMENT:<br/>
-//https://create-react-app.dev/docs/getting-started <br/>
-npx create-react-app monopol-bank-react-ts-v3 --template typescript
+LINK: https://create-react-app.dev/docs/getting-started <br/>
+npx create-react-app monopol-bank-react-ts-v3 --template typescript <br/>
+HOW TO WRITE CLASS NAMES:</br>
+LINK: http://getbem.com/naming/

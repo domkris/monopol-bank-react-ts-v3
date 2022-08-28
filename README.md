@@ -50,4 +50,5 @@ DEVELOPMENT:<br/>
 LINK: https://create-react-app.dev/docs/getting-started <br/>
 npx create-react-app monopol-bank-react-ts-v3 --template typescript <br/>
 HOW TO WRITE CLASS NAMES:</br>
-LINK: http://getbem.com/naming/
+LINK: http://getbem.com/naming/ <br/>
+added redux: npm install @reduxjs/toolkit react-redux <br/>

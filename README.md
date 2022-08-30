@@ -52,3 +52,9 @@ npx create-react-app monopol-bank-react-ts-v3 --template typescript <br/>
 HOW TO WRITE CLASS NAMES:</br>
 LINK: http://getbem.com/naming/ <br/>
 added redux: npm install @reduxjs/toolkit react-redux <br/>
+added eslint: npm install eslint --save-dev<br/>
+configured eslint: eslint --init <br/>
+ESLINT CONFIGURATION: Enforce all, ESM modules, React, Typescript, browser, standard, JSON <br/>
+
+
+
